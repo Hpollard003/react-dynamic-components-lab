@@ -47,7 +47,7 @@ body, html, #root, #app {
 
 .comment {
   width: 80%;
-  border: 5px solid purple;
+  border: 5px solid rebeccapurple;
   text-align: center;
   background-color: white;
   padding: 3px;
